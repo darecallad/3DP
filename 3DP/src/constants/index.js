@@ -23,6 +23,7 @@ import {
   sunnychildcare,
   crypto,
   threejs,
+  nike,
 } from "../assets";
 
 export const navLinks = [
@@ -246,6 +247,27 @@ const projects = [
     ],
     image: crypto,
     source_code_link: "https://github.com/darecallad/Cryptocurrency",
+  },
+  {
+    name: "Nike App",
+    description:
+      "NikeApp is a modern web application built using React. It leverages the latest features of React 18 and is set up with Vite for fast development and building. The project includes a robust linting setup with ESLint and styling with Tailwind CSS.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "PostCSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: nike,
+    source_code_link: "https://github.com/darecallad/NikeApp",
   },
 ];
 

@@ -29,6 +29,7 @@ import lts from "./company/lts.png";
 import rawg from "./rawg.png";
 import sunnychildcare from "./sunnychildcare.png";
 import crypto from "./crypto.png";
+import nike from "./nike.png";
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   rawg,
   sunnychildcare,
   crypto,
+  nike,
 };
