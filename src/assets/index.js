@@ -30,6 +30,7 @@ import rawg from "./rawg.png";
 import sunnychildcare from "./sunnychildcare.png";
 import crypto from "./crypto.png";
 import nike from "./nike.png";
+import ai from "./ai.png";
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   sunnychildcare,
   crypto,
   nike,
+  ai,
 };

@@ -24,6 +24,7 @@ import {
   crypto,
   threejs,
   nike,
+  ai,
 } from "../assets";
 
 export const navLinks = [
@@ -268,6 +269,27 @@ const projects = [
     ],
     image: nike,
     source_code_link: "https://github.com/darecallad/NikeApp",
+  },
+  {
+    name: "AI artical",
+    description:
+      "The ai_artical project is designed to create a seamless user experience using the latest React features and efficient state management with Redux Toolkit. This project is configured with Vite for an enhanced development experience and includes a robust set of developer tools for linting and styling.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Redux / Redux Toolkit",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ai,
+    source_code_link: "https://github.com/darecallad/ai_artical",
   },
 ];
 
