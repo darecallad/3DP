@@ -31,6 +31,7 @@ import sunnychildcare from "./sunnychildcare.png";
 import crypto from "./crypto.png";
 import nike from "./nike.png";
 import ai from "./ai.png";
+import car from "./car.png";
 
 export {
   logo,
@@ -63,4 +64,5 @@ export {
   crypto,
   nike,
   ai,
+  car,
 };

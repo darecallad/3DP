@@ -25,6 +25,7 @@ import {
   threejs,
   nike,
   ai,
+  car,
 } from "../assets";
 
 export const navLinks = [
@@ -290,6 +291,27 @@ const projects = [
     ],
     image: ai,
     source_code_link: "https://github.com/darecallad/ai_artical",
+  },
+  {
+    name: "A Car Showcase Website",
+    description:
+      "Developed with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next.js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: car,
+    source_code_link: "https://github.com/darecallad/car",
   },
 ];
 
