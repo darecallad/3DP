@@ -50,7 +50,7 @@ const Contact = () => {
         (error) => {
           setLoading(false);
           console.log(error);
-          alert("Something went wrong.");
+          alert("Something went wrong. Contact me at 'darecallad00@gmail.com'");
         }
       );
   };
